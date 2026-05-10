@@ -1,0 +1,8 @@
+flask
+flask-login
+werkzeug
+groq
+gunicorn
+moviepy
+openai-whisper
+torch
