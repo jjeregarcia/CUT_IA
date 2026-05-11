@@ -4,5 +4,5 @@ werkzeug
 groq
 gunicorn
 moviepy
-openai-whisper
+faster-whisper
 torch
