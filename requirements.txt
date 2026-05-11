@@ -3,6 +3,7 @@ flask-login
 werkzeug
 groq
 gunicorn
-moviepy
+moviepy==1.0.3
 faster-whisper
-torch
+pydub
+numpy
